@@ -1,50 +1,49 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
+## STAIR CASE WIRING                     
 
  
-AIM
+## AIM
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
 
-S. No.
-Name of the apparatus	
-Range / Type	
-Quantity
-
-1	Incandescent Lamp	60W	1 No.
-2	Lamp Holder	Pendent Type	1 No.
-3	SPDT Switch	230V,5A	2 Nos
-4	Wires	1/18”	As per requirement
-5	P.V.C Pipe	1/4"	As per requirement
-6	Wooden Board	-	1 No.
-7	Round block	-	1 No.
-
-
-Theory:
-•	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
-•	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
-•	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
-•	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
-•	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
-PROCEDURE
-•  Place the accessories on the wiring board as per the circuit diagram.
-•  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
-•	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
-•  Upper point of SPDT switch 1 is connected to the lower point of SPDT
-switch2.
-•  Lower point of SPDT 1 is connected to the upper point SPDT switch2.
-•	Another wire taken through a P.V.C pipe and middle point of SPDT switch 2 is connected to one end of the lamp holder.
-•  Another end of lamp holder is connected to neutral line.
-•  Screw the accessories on the board and switch on the supply.
-•  Circuit is tested for all possible combination of switch positions.
-
-
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
+		S. No.   Name of the apparatus	Range / Type  Quantity
 	
-Cross connection: CIRCUIT DIAGRAM:
+		1	Incandescent Lamp	             60W	  1 No.
+		2	Lamp Holder              	Pendent Type  1 No.
+		3	SPDT Switch	                  230V,5A	  2 Nos
+		4	Wires	                       1/18”	As per requirement
+		5	P.V.C Pipe	                   1/4"	As per requirement
+		6	Wooden Board                     	-	1 No.
+		7	Round block	                          -	1 No.
 
-Tabulation:2
 
-RESULT:
+
+
+## PROCEDURE & THEORY:
+![WhatsApp Image 2025-11-10 at 10 07 23 AM](https://github.com/user-attachments/assets/6091f227-4bc1-420e-a7ab-656531013af0)
+## TABLE :-
+![WhatsApp Image 2025-11-10 at 10 08 10 AM](https://github.com/user-attachments/assets/07d8e7b8-8d39-437b-a97d-4703c0e049f2)
+
+
+## CIRCUIT DIAGRAM :-
+![WhatsApp Image 2025-11-10 at 10 07 46 AM](https://github.com/user-attachments/assets/ced7e8f3-090a-4318-8334-236fdae47eb9)
+
+
+
+	
+
+
+
+	
+## OUTPUT
+
+#### XNOR
+<img width="1529" height="717" alt="1" src="https://github.com/user-attachments/assets/41d25872-4f4a-4998-af00-3f61ed7ff9a0" />
+
+#### XOR
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/bf51da2e-9770-4ffa-86fe-ec63f3c4c584" />
+
+
+
+## RESULT:
 Thus the staircase wiring is connected and tested.
